@@ -113,3 +113,7 @@ The test suite covers convergence on a simple quadratic, handling of zero‑grad
 
 ## License
 MIT License
+
+
+---
+**Last updated:** 2026-10-14
